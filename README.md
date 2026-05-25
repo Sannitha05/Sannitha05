@@ -32,10 +32,6 @@
 - Git & GitHub
 - Google Anti-Gravity
 - Jupyter Notebook
-- Figma
-- MongoDB
-- Expo Go
-- MS Office
 
 
 
